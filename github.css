@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+.git {
+    float: left;
+
+}
+
+main {
+    padding: 2em;
+
+}
+
+.cont {
+    text-align: center;
+}
+
+.hubcon {
+    padding-left: 540px; padding-top: 50px;
+}
+
+input {
+    padding: 0.5em;
+}
+
+button {
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
+
+.cont {
+    padding-right: 5px;
+}
